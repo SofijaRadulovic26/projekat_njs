@@ -1,0 +1,47 @@
+*{
+    font-family: 'Shantell Sans', cursive;
+    background-color: lightgreen;
+}
+
+h1{
+    font-weight: bold;
+    font-size: 50pt;
+    text-align: center;
+    margin-bottom: 10%;
+    color: green;
+}
+
+form{
+    margin-left: 10%;
+    margin-bottom: 20%;
+}
+
+label{
+    font-size: 15pt;
+    font-weight: bold;
+    color: green;
+}
+
+input{
+    width: 15%;
+    margin-right: 2%;
+}
+ 
+footer div
+{
+    margin-left: 40%;
+}
+
+footer div a{
+    margin: 5%;
+    color: green;
+    font-weight: bold;
+    transition: transform 0.5s;
+}
+
+footer div a:hover
+{
+    transform: translateY(-10px);
+}
+
+
